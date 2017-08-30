@@ -4,9 +4,13 @@ Ok so here's the story. You can use Drupal as your backend CMS (so that non-tech
 
 You can read all about it:
 
-[here](https://medium.com/@Userium/headless-drupal-build-a-drupal-8-api-with-a-reactjs-front-end-e43bf0fb94db) and
+[here](https://medium.com/@Userium/headless-drupal-build-a-drupal-8-api-with-a-reactjs-front-end-e43bf0fb94db)
 
-[here](https://www.adcisolutions.com/knowledge/how-create-headless-drupal-site).
+[here](https://www.adcisolutions.com/knowledge/how-create-headless-drupal-site)
+
+and
+
+[here](https://github.com/userium/Drupal-8-API---ReactJS-frontend)
 
 The instructions are fairly straight-forward.
 
